@@ -1,0 +1,91 @@
+nav ul li{
+    list-style-type: armenian;
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+.background {
+    background-image: url(https://images.unsplash.com/photo-1466442728326-938eb3f127ee);
+    background-size: cover;
+
+}
+a{
+    text-decoration: rgba(red, green, blue, alpha);
+    text-decoration-line: initial
+}
+
+a:hover{
+    font-style: italic;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+figure{
+    text-align: center;
+    margin: 5px;
+    width: 100%;
+}
+
+.image_cap:hover{
+    color: yellowgreen;
+    font-weight: bolder;
+    font-size: 100%;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.image_cap1:hover{
+    color: yellowgreen;
+    font-weight: bolder;
+    font-size: 100%;
+    font-style: italic;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+h2{
+    text-align: left;
+    font-size: 200%;
+    margin: 20px auto;
+    color: steelblue;
+}
+
+h3{
+    text-align: left;
+    font-size: 200%;
+    margin: 20px auto;
+    color: steelblue;
+}
+
+h4{
+    text-align: left;
+    font-size: 100%;
+    margin: 20px auto;
+    color: steelblue;
+}
+
+h5{
+    text-align: left;
+    font-size: 150%;
+    margin: 20px auto;
+    color:blueviolet;
+}
+
+h6{
+    text-align: left;
+    font-size: 150%;
+    margin: 20px auto;
+    color:blueviolet;
+
+}
+ul{
+    color: steelblue
+
+}
